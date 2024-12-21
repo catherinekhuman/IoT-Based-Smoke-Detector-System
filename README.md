@@ -1,2 +1,2 @@
 # IoT-Based-Smoke-Detector-System
-Integrates ESP32, MQ-2 smoke sensor, and DS18B20 temperature sensor for real-time monitoring. Features a local alarm via a buzzer, an LCD display, and remote notifications through the Blynk platform using Wi-Fi for seamless data transmission and alerts.
+Integrates ESP32 microcontroller, MQ-2 smoke sensor, and DS18B20 temperature sensor for real-time monitoring via the Blynk IoT cloud platform. Features a local alarm (buzzer), an LCD, and remote notifications through the Blynk app using Wi-Fi for seamless data transmission and alerts.
